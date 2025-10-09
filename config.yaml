@@ -21,7 +21,7 @@ carpentry_description: 'Trial Lesson'
 title: 'Trial Lesson' 
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ 2025-10-09
+created: 2025-10-09
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries' # FIXME
